@@ -5,7 +5,7 @@ void main() {
   int b = 2;
 
   int sum = a + b;
-  print('足し算: 250000 + 44000 +52000 +27500+16000+11500+250000+13300 = $sum');
+  print('足し算: $a+$b= $sum');
 
   int difference = a - b;
   print('引き算: $a - $b = $difference');
