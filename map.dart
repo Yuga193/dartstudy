@@ -14,6 +14,7 @@ void main() {
 
   fruits['オレンジ'] = 'オレンジ色';
   print(fruits);
+  
   fruits.remove('バナナ');
   print(fruits);
 }
