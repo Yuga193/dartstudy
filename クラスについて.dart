@@ -32,5 +32,5 @@ void main() {
   myDog.bark(); // 名前＋吠える
   myDog.eat(); // 犬種＋食べる
   myDog.A(); //名前＋年齢
-  myDog.B();//
+  myDog.B();//名前＋体重
 }
